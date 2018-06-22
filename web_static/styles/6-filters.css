@@ -52,6 +52,8 @@
 
 .popover {
     display: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
     background-color: #FAFAFA;
     width: 100%;
     border: 1px solid #DDDDDD;
@@ -69,4 +71,8 @@
 .popover, .popover ul {
     list-style-type: none;
     line-height: 1.5;
+}
+
+.popover h2 {
+    margin-bottom: 10px;
 }
