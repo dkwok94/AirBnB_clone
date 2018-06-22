@@ -66,10 +66,7 @@
     display: block;
 }
 
-.popover ul {
-    line-height: 1.5;
-}
-
 .popover, .popover ul {
     list-style-type: none;
+    line-height: 1.5;
 }
