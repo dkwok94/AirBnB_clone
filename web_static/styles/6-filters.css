@@ -74,5 +74,10 @@
 }
 
 .popover h2 {
-    margin-bottom: 10px;
+    margin-bottom: 0px;
+    margin-left: 25px;
+}
+
+.popover {
+    margin-left: 40px;
 }
