@@ -78,6 +78,6 @@
     margin-left: 25px;
 }
 
-.popover {
-    margin-left: 40px;
+.popover li {
+    padding-left: 40px;
 }
