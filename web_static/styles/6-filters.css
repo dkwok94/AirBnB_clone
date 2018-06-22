@@ -58,12 +58,16 @@
     border-radius: 4px;
 }
 
-.locations:hover .locations.popover {
+.locations:hover .popover {
     display: block;
 }
 
-.amenities:hover .amenities.popover {
+.amenities:hover .popover {
     display: block;
+}
+
+.popover ul {
+    line-height: 1.5;
 }
 
 .popover, .popover ul {
