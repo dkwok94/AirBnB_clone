@@ -31,17 +31,12 @@
     min-width: 60px;
     height: 60px;
     font-size: 30px;
-    float: right;
-}
-
-.price_by_night:after {
-    clear: both;
-    content: "";
-    display: block;
+    margin-left: 80%;
+    text-align: right;
 }
 
 .price_by_night p {
-    margin-top: 25%;
+    margin-top: 22%;
     margin-bottom: auto;
     text-align: center;
 }
@@ -57,6 +52,7 @@
 }
 
 .max_guest {
+    margin-left: 30px;
     width: 100px;
     background: url("../images/icon_group.png") no-repeat;
 }
