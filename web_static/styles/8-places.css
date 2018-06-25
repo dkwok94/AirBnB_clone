@@ -26,8 +26,8 @@
 .places article h2 {
     font-size: 30px;
     margin-top: auto;
-    margin-bottom: auto;
-    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 30%;
 }
 
 .price_by_night {
@@ -37,8 +37,6 @@
     min-width: 60px;
     height: 60px;
     font-size: 30px;
-    margin-left: 80%;
-    text-align: right;
 }
 
 .price_by_night p {
