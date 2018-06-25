@@ -84,7 +84,7 @@
     margin-top: 40px;
 }
 
-.places article .amenities h2 {
+.places .myplaces article .amenities_list h2 {
     font-size: 16px;
     border-bottom: 1px solid #DDDDDD;
 }
@@ -103,4 +103,8 @@
 
 .wifi_available {
     background: url("../images/icon_wifi.png") no-repeat;
+}
+
+.amenities_list ul li div p {
+    margin-left: 30px;
 }
