@@ -34,6 +34,12 @@
     float: right;
 }
 
+.price_by_night:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
 .price_by_night p {
     margin-top: 25%;
     margin-bottom: auto;
