@@ -80,11 +80,11 @@
     text-align: left;
 }
 
-.amenities {
+.amenities_list {
     margin-top: 40px;
 }
 
-.amenities h2 {
+.places article .amenities h2 {
     font-size: 16px;
     border-bottom: 1px solid #DDDDDD;
 }
@@ -94,13 +94,13 @@
 }
 
 .pet_friendly {
-    background: url("../images/icon_pets.png");
+    background: url("../images/icon_pets.png") no-repeat;
 }
 
 .tv_available {
-    background: url("../images/icon_tv.png");
+    background: url("../images/icon_tv.png") no-repeat;
 }
 
 .wifi_available {
-    background: url("../images/icon_wifi.png");
+    background: url("../images/icon_wifi.png") no-repeat;
 }
