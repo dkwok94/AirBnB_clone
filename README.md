@@ -1,4 +1,4 @@
-<img src="https://www.holbertonschool.com/holberton-logo-twitter-card.png">
+<img src="https://www.dhkschool.com/dhk-logo-twitter-card.png">
 
 ## Airbnb Clone Console
 
@@ -14,7 +14,7 @@
 ---
 
 ### Description
-Over the course of the next few months, we at [Holberton School](https://www.holbertonschool.com/) will be creating a clone of the AirBnb application. This repository contains the code for one of the preliminary steps of this whole project: the console. As can be seen in the following image of the stack and architecture we will be using for this project, the console will serve as the core of the back-end side and will be written in Python. This console will connect directly to storage engines of which there will eventually be two: database and file storage. We focus on file storage in this particular instance.
+Over the course of the next few months, we at [DHK School](https://www.dhkschool.com/) will be creating a clone of the AirBnb application. This repository contains the code for one of the preliminary steps of this whole project: the console. As can be seen in the following image of the stack and architecture we will be using for this project, the console will serve as the core of the back-end side and will be written in Python. This console will connect directly to storage engines of which there will eventually be two: database and file storage. We focus on file storage in this particular instance.
 
 <p><img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step5.png" alt="Technology" width="629" height="335"></p>
 
